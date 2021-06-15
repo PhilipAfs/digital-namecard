@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Philip;Hoitink;;;
+FN: Hoitink  Philip 
+ORG:Australian Filter Sales Pty Ltd;
+TITLE:Sales Director  
+EMAIL;type=INTERNET;type=WORK;type=pref:sales@australianfiltersales.com.au
+TEL;type=WORK;type=VOICE:0422 181 929
+item1.ADR;type=WORK;type=pref:;;18 Enterprise Crescent, McDougalls Hill, NSW, 2330
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:australianfiltersales.com.au
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
